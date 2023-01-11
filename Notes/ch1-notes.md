@@ -62,3 +62,8 @@
 
 ## Tentative topic: Mental Illness
 - Why are kids feeling more anxious/depressed
+
+## Parasigms of research
+- Quantitative approach (symetatic, scientific or positivist approach to social enquiry)
+- Qualitative approach (ethnographic, ecological, or naturalistic approach)
+- Mixed methods approach (combination of quantitative and qualitative approach)
