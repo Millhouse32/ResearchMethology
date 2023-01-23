@@ -42,3 +42,6 @@
 - Lowerbound of 5 pieces of literature
 - Google scholar
 - Wikipedia is a good place to start research
+
+## Notes
+- Topics and literature reviews presentation: Feb 6, 2 weeks from today
