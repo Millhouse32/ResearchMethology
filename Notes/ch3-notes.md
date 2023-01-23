@@ -31,6 +31,13 @@
 - **Collecting** Information
 - **Synthesising** the current research
 
+## Example of proposed projects
+- A combined deep CNN network and Sobel-Gaussian filter for the detection of novel coronavirus using X-ray images
+- Government Policies Affecting the curve of covid19 infections
+- Coronavirus Detection by modified YOLO V4 model
+- Dynamic Commentary Generation in a Game Engine
+- Emotion Detection and Sentiment Analysis in Text Data
+
 ## Tools
 - Lowerbound of 5 pieces of literature
 - Google scholar
