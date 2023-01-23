@@ -21,4 +21,17 @@
 - I'm using this approach because **no one** else has
 - I'm using this approach because it's the **tied and trusted** approach in this field 
 
-**5 papers as a lower bound for research review**
+## Literature Review
+### Phase 1
+- Look through university **database**
+- Search using Google **Scholar**
+- Visiting the university **library**
+### Phase 2
+- **Writing** up your chapter
+- **Collecting** Information
+- **Synthesising** the current research
+
+## Tools
+- Lowerbound of 5 pieces of literature
+- Google scholar
+- Wikipedia is a good place to start research
