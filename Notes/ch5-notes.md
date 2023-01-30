@@ -11,3 +11,5 @@
 - Dependent variable (outcome or change brought by the independent variable)
 - **Extraneous Variable** (several factors affecting the changes in the dependent variable)
 - **Intervening variable** (confounding variable links independent to the dependenant variable)
+- Categorical variable (nominal and ordinal scales)
+- constant variables
