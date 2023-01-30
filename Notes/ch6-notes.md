@@ -23,4 +23,12 @@
 - The null hypothesis states that there is no difference between two situations, groups, outcomes, or the prevalence of a condition or phenomenon
 - Hypothesis of difference/alternative hypothesis: There is a difference in the average age of male and female students in this class.
 
+## Errors in testing hypothesis
+Incorrect conclusions about the validity of a hypothesis may be drawn if:
+- the study design selected is faulty
+- the sampling procedure adopted is faulty
+- the method of data collection 
+
 ex: The average age of male students in this class is higher than that of the female students
+
+narrow project down to college students/non college students during the years of COVID 2020-2021 or so
