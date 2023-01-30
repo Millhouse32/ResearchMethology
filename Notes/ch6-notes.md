@@ -20,5 +20,7 @@
 
 ### Null hypothesis
 - hypothesis of no difference
+- The null hypothesis states that there is no difference between two situations, groups, outcomes, or the prevalence of a condition or phenomenon
+- Hypothesis of difference/alternative hypothesis: There is a difference in the average age of male and female students in this class.
 
 ex: The average age of male students in this class is higher than that of the female students
