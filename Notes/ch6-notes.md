@@ -18,4 +18,7 @@
 - a hypothesis should be related to the existing body of knowledge
 - a hypothesis should be measureable
 
+### Null hypothesis
+- hypothesis of no difference
+
 ex: The average age of male students in this class is higher than that of the female students
