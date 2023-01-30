@@ -31,4 +31,4 @@ Incorrect conclusions about the validity of a hypothesis may be drawn if:
 
 ex: The average age of male students in this class is higher than that of the female students
 
-narrow project down to college students/non college students during the years of COVID 2020-2021 or so
+# narrow project down to college students/non college students during the years of COVID 2020-2021 or so
